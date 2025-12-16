@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# MATLAB
+*.asv
+*.log
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb
+*.idx
+*.ind
+*.ilg
+*.inx
+*.lof
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.xdv
+*.gz
+
+# Compiled files
+*.mexa64
+*.mexglx
+*.mexmac
+*.mexmaci
+*.mexmaci64
+*.mexw32
+*.mexw64
+
+*.docx
+
+# Editor backup files
+*~
+
+# Temporary files
+*.tmp
