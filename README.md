@@ -1,3 +1,3 @@
-# Communication Theory
+# 通信理論
 
-This repository contains materials related to Communication Theory coursework.
+通信理論の演習課題で用いたコードやレポートをまとめたリポジトリ．
